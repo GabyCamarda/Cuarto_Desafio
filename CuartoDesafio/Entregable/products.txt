@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "price": 1,
+    "title": "Teclado",
+    "thumbnail": "teclado.png"
+  },
+  {
+    "id": 2,
+    "price": 1,
+    "title": "Mouse",
+    "thumbnail": "mouse.png"
+  },
+  {
+    "id": 3,
+    "price": "1",
+    "title": "test",
+    "thumbnail": "test"
+  }
+]
